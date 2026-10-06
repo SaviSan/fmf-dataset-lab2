@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+fmfdataset/raw/
+fmfdataset/processed/
+photos_in/
+photos_extra/
+screenshots/
+*.jpg
+*.jpeg
+*.JPG
+*.png
+*.pt
+*.pdf
+*.zip
